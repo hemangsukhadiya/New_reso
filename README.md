@@ -1,4 +1,4 @@
 # New_reso
 new_1st_repo
 <br>
-with some knowledge base
+with some knowledge of the git
